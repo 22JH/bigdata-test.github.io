@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/bigdata-test.github.io/static/js/main.132c33b5.js",
+    "main.js": "/bigdata-test.github.io/static/js/main.b7f44ac1.js",
     "index.html": "/bigdata-test.github.io/index.html",
-    "main.132c33b5.js.map": "/bigdata-test.github.io/static/js/main.132c33b5.js.map"
+    "main.b7f44ac1.js.map": "/bigdata-test.github.io/static/js/main.b7f44ac1.js.map"
   },
   "entrypoints": [
-    "static/js/main.132c33b5.js"
+    "static/js/main.b7f44ac1.js"
   ]
 }
